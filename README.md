@@ -29,3 +29,5 @@ lib\jaxb-impl-2.3.2.jar
 lib\junit-4.12.jar
 lib\log4j-1.2.17.jar
 lib\SparseBitSet-1.2.jar
+
+The writeXLSX class needs these .JAR files to create a excel sheet for data capture
